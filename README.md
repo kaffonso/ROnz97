@@ -1,7 +1,15 @@
 ## Hi, My Name is Ronaldo 👋 <img src="https://komarev.com/ghpvc/?username=ronz97&color=blueviolet&label=Visualizações+do+perfil&style=flat-square" align="right"/>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer Victor Souza">
+<p>
+<br>- 🔭 I’m Working for the future</br>
+<br>- 🌱 I’m currently learning AI</br>
+<br>- 💬 Programing is build future</br>
+<br>- ⚡ Build not just use</br>
+</p>
 
  **Just study** 💭 
+ <br></br>
+
 <div align="center">
   <a href="https://github.com/ronz97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronz97&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
@@ -17,12 +25,6 @@
   <img align="center" alt="Ronz97-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"" />
   
 </div>
-<br></br>
-
-- 🔭 I’m Working for the future
-- 🌱 I’m currently learning AI
-- 💬 Programing is build future
-- ⚡ Build not just use
 
   ##
   
