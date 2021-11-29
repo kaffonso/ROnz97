@@ -1,7 +1,8 @@
 ### I´m Ronaldo Guilherme, Welcome ✨
 
   ##
-  ![coding-freak](https://user-images.githubusercontent.com/82000117/143793842-119d765d-c6c4-4999-bf0e-698e8f5a7d87.gif)
+  
+
 
 <div align="center">
   <a href="https://github.com/ronz97">
@@ -17,7 +18,8 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?b=1&k=20&m=873945208&s=612x612&w=0&h=SZoGCf5WDF090FIZQYvw-3fnc6FydZLM1tfQfYADYIA=">
+  <img align="right" alt="Rafa-pic" height="250" style="border-radius:50px;" src="https://media.istockphoto.com/vectors/young-programmer-coding-a-new-project-vector-id873945208?b=1&k=20&m=873945208&s=612x612&w=0&h=SZoGCf5WDF090FIZQYvw-3fnc6FydZLM1tfQfYADYIA="
+       >
 </div>
 <br></br>
 
@@ -37,3 +39,4 @@
   ![Snake animation](https://github.com/ronz97/ronz97/blob/output/github-contribution-grid-snake.svg)
  
  </div>
+
