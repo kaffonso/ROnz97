@@ -1,5 +1,8 @@
 ### I´m Ronaldo Guilherme, Welcome ✨
+
   ##
+  ![coding-freak](https://user-images.githubusercontent.com/82000117/143793842-119d765d-c6c4-4999-bf0e-698e8f5a7d87.gif)
+
 <div align="center">
   <a href="https://github.com/ronz97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ronz97&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
